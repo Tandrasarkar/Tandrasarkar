@@ -1,4 +1,4 @@
-### Hi there 👋
+
 [![MasterHead](https://assets.entrepreneur.com/content/3x2/2000/20160309162330-woman-laptop-computer-internet-blogger-digital-working.jpeg)](https://tandrasarkar.io)
 
 <h1 align="center">Hi 👋, I'm Tandra Sarkar</h1>
