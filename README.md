@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->[![MasterHead](https://programmingseekhe.in/wp-content/uploads/2021/01/banner.gif)](https://tandrasarkar.io)
+--(https://programmingseekhe.in/wp-content/uploads/2021/01/banner.gif)](https://tandrasarkar.io)
 
 <h1 align="center">Hi 👋, I'm Tandra Sarkar</h1>
 <h3 align="center">A passionate data scientist from India</h3>
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **android**
 
 - 📫 How reach me **tanisarkar13@gmail.com**
+[![MasterHead](https://assets.entrepreneur.com/content/3x2/2000/20160309162330-woman-laptop-computer-internet-blogger-digital-working.jpeg)](https://tandrasarkar.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
