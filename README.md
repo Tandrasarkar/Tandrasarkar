@@ -1,18 +1,6 @@
 ### Hi there 👋
+[![MasterHead](https://assets.entrepreneur.com/content/3x2/2000/20160309162330-woman-laptop-computer-internet-blogger-digital-working.jpeg)](https://tandrasarkar.io)
 
-<!--
-**Tandrasarkar/Tandrasarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 <h1 align="center">Hi 👋, I'm Tandra Sarkar</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 <img align="right"alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
@@ -28,7 +16,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about **android**
 
 - 📫 How reach me **tanisarkar13@gmail.com**
-[![MasterHead](https://assets.entrepreneur.com/content/3x2/2000/20160309162330-woman-laptop-computer-internet-blogger-digital-working.jpeg)](https://tandrasarkar.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,4 +34,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tandrasarkar&show_icons=true&locale=en" alt="tandrasarkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tandrasarkar&" alt="tandrasarkar" /></p>
+
 
